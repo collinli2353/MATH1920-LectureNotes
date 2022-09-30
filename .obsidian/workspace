@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "48d5c1414845430f",
+    "type": "split",
+    "children": [
+      {
+        "id": "239299e376e6ee7d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "partial derivative.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "132f4b62229476c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2e5ef1d30692456",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b028a516c444c50a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "72159b70ad390d83",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "617efffcbf97b915",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "9d1d61857b329792",
+    "type": "split",
+    "children": [
+      {
+        "id": "51ef68a870f66c20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb402d356ed73d0a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "partial derivative.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "1973dbfddc0253c1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "partial derivative.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ec9ef61f2c0316f2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "040023edbf5c1a31",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "partial derivative.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "bb402d356ed73d0a",
+  "lastOpenFiles": [
+    "prototypical behaviors critical point.png",
+    "partial derivative.md",
+    "derivative.md",
+    "cross product.md",
+    "vector.md",
+    "limits.md",
+    "linear approximation.md",
+    "2022-09-12.md",
+    "plane.md",
+    "gradient.md"
+  ]
+}
