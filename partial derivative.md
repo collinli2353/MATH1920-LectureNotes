@@ -14,7 +14,7 @@ $$(f_x)_x=f_{xx} \rightarrow \frac{\partial}{\partial x}(\frac{\partial f}{\part
 $$f_{yy}=\frac{\partial^2 f}{\partial y^2}$$, concavity of the trace with x = something
 $$(f_x)_y=f_{xy} \rightarrow \frac{\partial^2 f}{\partial y \partial x}$$
 $$f_{yx}=\frac{\partial^2 f}{\partial x \partial y}$$
-## Derivatives of functions of several values (NOT SURE WHAT REAL NAME IS)
+## Chain Rule of partial derivatives with respect to indepenendent variables
 $$\frac{\partial f}{\partial s}=\frac{\partial f}{\partial x} \cdot \frac{\partial x}{\partial s} + \frac{\partial f}{\partial y} \cdot \frac{\partial y}{\partial s} + \frac{\partial f}{\partial z} \cdot \frac{\partial z}{\partial s}$$
 ## Clairaut's Theorem
 If the second particals of $f$ are continuous, then you can differentiate in any order.

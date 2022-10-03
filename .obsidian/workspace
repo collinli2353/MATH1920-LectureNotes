@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "partial derivative.md",
+            "file": "critical point.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9d1d61857b329792",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "partial derivative.md",
+                "file": "critical point.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "partial derivative.md",
+                "file": "critical point.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "partial derivative.md"
+                "file": "critical point.md"
               }
             }
           }
@@ -126,19 +125,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "bb402d356ed73d0a",
+  "active": "239299e376e6ee7d",
   "lastOpenFiles": [
-    "prototypical behaviors critical point.png",
     "partial derivative.md",
+    "critical point.md",
+    "prototypical behaviors critical point.png",
     "derivative.md",
     "cross product.md",
     "vector.md",
     "limits.md",
     "linear approximation.md",
     "2022-09-12.md",
-    "plane.md",
-    "gradient.md"
+    "plane.md"
   ]
 }
